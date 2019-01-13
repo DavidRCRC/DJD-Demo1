@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_281655_djd_demo1.view" name="x_281655_djd_demo1.view">a19d18dcdb432300bbf453184b96195a</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-12 18:32:27</sys_created_on>
+        <sys_id>1cad989cdb432300bbf453184b9619df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a19d18dcdb432300bbf453184b96195a</sys_name>
+        <sys_package display_value="DJD Demo1" source="x_281655_djd_demo1">77760058db032300bbf453184b9619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DJD Demo1">77760058db032300bbf453184b9619a7</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1cad989cdb432300bbf453184b9619df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-12 18:32:27</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

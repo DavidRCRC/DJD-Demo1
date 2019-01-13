@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="DJD Demo1 Table" max_length="40" name="x_281655_djd_demo1_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="255" name="u_string_full_utf8_description" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="40" name="u_string_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="1" label="Type" mandatory="true" max_length="40" name="u_string_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Type1" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Type2" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Type3" sequence="2" value="3"/>
+            </choice>
+        </element>
+    </element>
+</database>
